@@ -1,0 +1,37 @@
+{
+    "12345": {
+        "title": "jungle book",
+        "author": "Rudyard kipling",
+        "total_copies": 50,
+        "available_copies": 50,
+        "issued_copies": []
+    },
+    "123654": {
+        "title": "Delhi safari",
+        "author": "om sai",
+        "total_copies": 45,
+        "available_copies": 45,
+        "issued_copies": []
+    },
+    "258963": {
+        "title": "kingdom of bats",
+        "author": "ayaan",
+        "total_copies": 30,
+        "available_copies": 30,
+        "issued_copies": []
+    },
+    "589647": {
+        "title": "rain water",
+        "author": "rutesh",
+        "total_copies": 15,
+        "available_copies": 15,
+        "issued_copies": []
+    },
+    "589623": {
+        "title": "lost boy",
+        "author": "sami",
+        "total_copies": 12,
+        "available_copies": 12,
+        "issued_copies": []
+    }
+}
